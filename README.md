@@ -9,10 +9,10 @@ To train the agents yourself, please refer to [Tennis](./Tennis.ipynb) IPython n
 
 The final neural network weights:
 
-- [Agent 0 Actor](./tennis-solved-ddpg-actor-solved-agent0.pth)
-- [Agent 0 Critic](./tennis-solved-ddpg-critic-solved-agent0.pth)
-- [Agent 1 Actor](./tennis-solved-ddpg-actor-solved-agent1.pth)
-- [Agent 1 Critic](./tennis-solved-ddpg-critic-solved-agent1.pth)
+- [Agent 0 Actor](./weights_solved/tennis-solved-ddpg-actor-solved-agent0.pth)
+- [Agent 0 Critic](./weights_solved/tennis-solved-ddpg-critic-solved-agent0.pth)
+- [Agent 1 Actor](./weights_solved/tennis-solved-ddpg-actor-solved-agent1.pth)
+- [Agent 1 Critic](./weights_solved/tennis-solved-ddpg-critic-solved-agent1.pth)
 
 
 **Results**
