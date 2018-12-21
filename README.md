@@ -17,7 +17,7 @@ The final neural network weights:
 
 **Results**
 
-![Solved-Episodes](./images/solved_episodes.png)
+![Solved-Episodes](./images/solved_episodes.PNG)
 ![Solved-Chart](./images/solved_chart.png)
 
 ### Introduction
